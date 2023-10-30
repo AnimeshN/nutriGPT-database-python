@@ -7,17 +7,19 @@ from dotenv import load_dotenv
 with st.sidebar:
     st.markdown(
         "## How to use\n"
-        "Just ask ask questions related to nutrition status of India.\n"
+        "Just ask ask questions related to nutrition status of India. Following are few examples\n"
+        "1. Give overview of indian health condiation?\n"
+        "2. Which states are performing well in malnutrition?"
     )
     st.markdown("---")
     st.markdown("# About")
     st.markdown(
-        "AI app to find real-time discounts from various online markets [Amazon deals](https://www.amazon.com/gp/goldbox?ref_=nav_cs_gb) in a specific location. "
+        "AI app connects to SQLite database in realtime and create embeddings "
         "It uses Pathway’s [LLM App features](https://github.com/pathwaycom/llm-app) "
         "to build real-time LLM(Large Language Model)-enabled data pipeline in Python and join data from multiple input sources\n"
 
     )
-    st.markdown("[View the source code on GitHub](https://github.com/Boburmirzo/chatgpt-api-python-sales)")
+    st.markdown("[View the source code on Animesh's GitHub](https://github.com/AnimeshN/chatgpt-database-python-nutrition)")
 
 
 # Load environment variables
