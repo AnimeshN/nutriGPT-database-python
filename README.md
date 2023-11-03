@@ -1,6 +1,7 @@
 # NutriGPT: Unlocking Nutrition Insights for India 🥦🇮🇳
 
-![Peek 2023-11-03 15-04](https://github.com/AnimeshN/chatgpt-database-python-nutrition/assets/17973453/41d17008-0bd0-4f8a-b8f3-4a260b0c5853)
+![image](https://github.com/AnimeshN/nutriGPT-database-python/assets/17973453/b5a183e0-7b0c-4aff-a0b8-863d65ed931c)
+
 
 ## About NutriGPT
 NutriGPT is an AI-powered application that connects to a real-time **SQLite database** and generates data embeddings. It utilizes Pathway’s [LLM App features](https://github.com/pathwaycom/llm-app) to build a real-time Large Language Model (LLM)-enabled data pipeline in Python, combining data from multiple databases.
@@ -159,12 +160,8 @@ class QueryInputSchema(pw.Schema):
 ## How to run the project
 
 Example only supports Unix-like systems (such as Linux, macOS, BSD). If you are a Windows user, we highly recommend leveraging Windows Subsystem for Linux (WSL) or Dockerize the app to run as a container.
+![Peek 2023-11-03 15-04](https://github.com/AnimeshN/chatgpt-database-python-nutrition/assets/17973453/41d17008-0bd0-4f8a-b8f3-4a260b0c5853)
 
-### Run with Docker
-
-1. [Set environment variables](#step-2-set-environment-variables)
-2. From the project root folder, open your terminal and run `docker compose up`.
-3. Navigate to `localhost:8501` on your browser when docker installion is successful.
 
 ### Prerequisites
 
