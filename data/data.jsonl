@@ -1,0 +1,180 @@
+{"doc": "{'indicator_name': 'High Blood Sugar in 15-19 year old adolescents', 'unit_name': 'Percent', 'data_value': 3, 'data_value_num': ''}"}
+{"doc": "{'indicator_name': 'Full immunization in 12-23 month olds', 'unit_name': 'Percent', 'data_value': 76.5, 'data_value_num': ''}"}
+{"doc": "{'indicator_name': 'Received Vitamin A supplementation in 6-59 month olds', 'unit_name': 'Percent', 'data_value': 36.8, 'data_value_num': ''}"}
+{"doc": "{'indicator_name': 'Received Vitamin A supplementation in 6-59 month olds', 'unit_name': 'Percent', 'data_value': 36.8, 'data_value_num': ''}"}
+{"doc": "{'indicator_name': 'Overweight in 15- 49 year old women', 'unit_name': 'Percent', 'data_value': 24, 'data_value_num': ''}"}
+{"doc": "{'indicator_name': 'High Blood Sugar in 15-49 year old women', 'unit_name': 'Percent', 'data_value': 8.1, 'data_value_num': ''}"}
+{"doc": "{'indicator_name': 'Postnatal care for newborns who received first check by a health professional within 2 days of birth', 'unit_name': 'Percent', 'data_value': 51.1, 'data_value_num': ''}"}
+{"doc": "{'indicator_name': 'Postnatal care for newborns who received first check by a health professional within 2 days of birth', 'unit_name': 'Percent', 'data_value': 51.1, 'data_value_num': ''}"}
+{"doc": "{'indicator_name': 'Early initiation of breastfeeding within one hour of birth  in children <24 months of age', 'unit_name': 'Percent', 'data_value': 41.4, 'data_value_num': ''}"}
+{"doc": "{'indicator_name': 'Treatment for ARI/pneumonia for under-five year olds', 'unit_name': 'Percent', 'data_value': 56.1, 'data_value_num': ''}"}
+{"doc": "{'indicator_name': 'Women 15-49 years of age who have and use phone', 'unit_name': 'Percent', 'data_value': 53.9, 'data_value_num': ''}"}
+{"doc": "{'indicator_name': 'Women 15-49 years of age who have and use phone', 'unit_name': 'Percent', 'data_value': 53.9, 'data_value_num': ''}"}
+{"doc": "{'indicator_name': 'Women who received HIV counseling, HIV test, and test results during ANC visit', 'unit_name': 'Percent', 'data_value': 22.1, 'data_value_num': ''}"}
+{"doc": "{'indicator_name': 'Women 15-49 years of age with hypertension who sought treatment', 'unit_name': 'Percent', 'data_value': 76.7, 'data_value_num': ''}"}
+{"doc": "{'indicator_name': 'Pregnant women who slept under insecticide-treated bed net', 'unit_name': 'Percent', 'data_value': 26, 'data_value_num': ''}"}
+{"doc": "{'indicator_name': 'Large Waist Circumference in 15-19 year old adolescents ', 'unit_name': 'Percent', 'data_value': 12.91, 'data_value_num': 23142000}"}
+{"doc": "{'indicator_name': 'Percentage women who were able to get Supplementary Nutrition during pregnancy', 'unit_name': 'Percent', 'data_value': 66.4, 'data_value_num': ''}"}
+{"doc": "{'indicator_name': 'Male was present for any antenatal care during pregnancy', 'unit_name': 'Percent', 'data_value': 77.3, 'data_value_num': ''}"}
+{"doc": "{'indicator_name': 'High Blood Sugar in pregnant women', 'unit_name': 'Percent', 'data_value': 4.6, 'data_value_num': ''}"}
+{"doc": "{'indicator_name': \"Male ever told what to do if child's mother had any pregnancy complication\", 'unit_name': 'Percent', 'data_value': 63.9, 'data_value_num': ''}"}
+{"doc": "{'indicator_name': 'Large Hip Circumference in 15-49 year old women', 'unit_name': 'Percent', 'data_value': 6.43, 'data_value_num': ''}"}
+{"doc": "{'indicator_name': 'Low Arm Circumference in 15-49 year old women', 'unit_name': 'Percent', 'data_value': 24.23, 'data_value_num': ''}"}
+{"doc": "{'indicator_name': 'High Blood Pressure in pregnant women', 'unit_name': 'Percent', 'data_value': 4.3, 'data_value_num': ''}"}
+{"doc": "{'indicator_name': 'Fed minimum acceptable diet in  6 - 23 month olds', 'unit_name': 'Percent', 'data_value': 10.8, 'data_value_num': ''}"}
+{"doc": "{'indicator_name': 'Fed minimum acceptable diet in  6 - 23 month olds', 'unit_name': 'Percent', 'data_value': 10.8, 'data_value_num': ''}"}
+{"doc": "{'indicator_name': 'Low BMI in 15-49 year old women', 'unit_name': 'Percent', 'data_value': 18.7, 'data_value_num': ''}"}
+{"doc": "{'indicator_name': 'Low BMI in 15-49 year old women', 'unit_name': 'Percent', 'data_value': 18.7, 'data_value_num': ''}"}
+{"doc": "{'indicator_name': 'Women 15-49 years of age with at least 10 years of education', 'unit_name': 'Percent', 'data_value': 41.04, 'data_value_num': ''}"}
+{"doc": "{'indicator_name': 'Women 15-49 years of age with at least 10 years of education', 'unit_name': 'Percent', 'data_value': 41.04, 'data_value_num': ''}"}
+{"doc": "{'indicator_name': 'Domestic violence (experienced physical violence since age 15)', 'unit_name': 'Percent', 'data_value': 28.7, 'data_value_num': ''}"}
+{"doc": "{'indicator_name': 'Domestic violence (experienced physical violence since age 15)', 'unit_name': 'Percent', 'data_value': 28.7, 'data_value_num': ''}"}
+{"doc": "{'indicator_name': \"Women's Empowerment\", 'unit_name': 'Percent', 'data_value': 80.6, 'data_value_num': 289622000}"}
+{"doc": "{'indicator_name': 'Women 15-49 years with an unmet need for family planning', 'unit_name': 'Percent', 'data_value': 9.42, 'data_value_num': 33849000}"}
+{"doc": "{'indicator_name': 'Rashtriya Swasthya Bima Yojana (RSBY) (anyone in the household)', 'unit_name': 'Percent', 'data_value': 6.43, 'data_value_num': ''}"}
+{"doc": "{'indicator_name': 'Open defecation', 'unit_name': 'Percent', 'data_value': 19.35, 'data_value_num': ''}"}
+{"doc": "{'indicator_name': 'Low BMI in under four-year olds', 'unit_name': 'Percent', 'data_value': 18.31, 'data_value_num': 17149000}"}
+{"doc": "{'indicator_name': 'Large Waist Circumference in pregnant women', 'unit_name': 'Percent', 'data_value': 55.61, 'data_value_num': 199825000}"}
+{"doc": "{'indicator_name': 'Received IFA supplementation in children 6-59 months old', 'unit_name': 'Percent', 'data_value': 39.29, 'data_value_num': 40838000}"}
+{"doc": "{'indicator_name': 'Availability of water/soap for hand washing', 'unit_name': 'Percent', 'data_value': 74.86, 'data_value_num': ''}"}
+{"doc": "{'indicator_name': 'Growth monitoring in under-five year olds', 'unit_name': 'Percent', 'data_value': 57.43, 'data_value_num': 59692000}"}
+{"doc": "{'indicator_name': 'Safe disposal of child faeces', 'unit_name': 'Percent', 'data_value': 38.03, 'data_value_num': ''}"}
+{"doc": "{'indicator_name': 'Received albendazole or any other deworming drug in 12-59 month olds', 'unit_name': 'Percent', 'data_value': 43.91, 'data_value_num': 45640000}"}
+{"doc": "{'indicator_name': 'Households with BPL Card (proxy of poverty)', 'unit_name': 'Percent', 'data_value': 45.17, 'data_value_num': ''}"}
+{"doc": "{'indicator_name': 'Obesity in pregnant women', 'unit_name': 'Percent', 'data_value': 4.68, 'data_value_num': 16817000}"}
+{"doc": "{'indicator_name': 'Women 15-49 years who are obese', 'unit_name': 'Percent', 'data_value': 6.37, 'data_value_num': 22889000}"}
+{"doc": "{'indicator_name': 'Mothers Received 1st postnatal health check from Doctor or ANM/nurse/midwife/LHV', 'unit_name': 'Percent', 'data_value': 69.7, 'data_value_num': 250454000}"}
+{"doc": "{'indicator_name': 'Large Waist Circumference in 15-49 year old women', 'unit_name': 'Percent', 'data_value': 39.9, 'data_value_num': 143373000}"}
+{"doc": "{'indicator_name': 'Counselled on breastfeeding at delivery for 15-49 year old women', 'unit_name': 'Percent', 'data_value': 80.99, 'data_value_num': 291023000}"}
+{"doc": "{'indicator_name': 'Stunting in 15-19 year old adolescents', 'unit_name': 'Percent', 'data_value': 11.94, 'data_value_num': 7142000}"}
+{"doc": "{'indicator_name': 'Overweight in 15-19 year old adolescents', 'unit_name': 'Percent', 'data_value': 4.11, 'data_value_num': 2458000}"}
+{"doc": "{'indicator_name': 'Low BMI in 15-19 year old adolescent girls', 'unit_name': 'Percent', 'data_value': 36.93, 'data_value_num': 22089000}"}
+{"doc": "{'indicator_name': 'High Blood Pressure in 15-19 year old adolescents', 'unit_name': 'Percent', 'data_value': 2.35, 'data_value_num': 1406000}"}
+{"doc": "{'indicator_name': 'Adolescents 15-19 years currently using modern method to delay or avoid getting pregnant', 'unit_name': 'Percent', 'data_value': 18.75, 'data_value_num': ''}"}
+{"doc": "{'indicator_name': 'Severe underweight in under five-year olds', 'unit_name': 'Percent', 'data_value': 10.6, 'data_value_num': 12107000}"}
+{"doc": "{'indicator_name': 'Low birth weight in under-five year old chidren', 'unit_name': 'Percent', 'data_value': 18.2, 'data_value_num': 20788000}"}
+{"doc": "{'indicator_name': 'Low BMI-Age in pregnant women', 'unit_name': 'Percent', 'data_value': 11.7, 'data_value_num': 42042000}"}
+{"doc": "{'indicator_name': 'Women age 15-49 giving birth who had massive vaginal bleeding or very high fever within two months after the most recent delivery', 'unit_name': 'Percent', 'data_value': 29.6, 'data_value_num': 106362000}"}
+{"doc": "{'indicator_name': 'Pregnant women who received information on where to go if experienced specific signs of pregnancy complications', 'unit_name': 'Percent', 'data_value': 80.4, 'data_value_num': 288903000}"}
+{"doc": "{'indicator_name': 'Overweight in pregnant Women (BMI Range: 25 to 30)', 'unit_name': 'Percent', 'data_value': 16.5, 'data_value_num': 59290000}"}
+{"doc": "{'indicator_name': 'Postnatal check for mother within 2 days of birth', 'unit_name': 'Percent', 'data_value': 36.5, 'data_value_num': 131156000}"}
+{"doc": "{'indicator_name': 'Mothers of children under-five years who received nutrition counselling', 'unit_name': 'Percent', 'data_value': 84.9, 'data_value_num': 96972000}"}
+{"doc": "{'indicator_name': 'Pregnant women who received information on specific signs of pregnancy complications', 'unit_name': 'Percent', 'data_value': 77.1, 'data_value_num': 277045000}"}
+{"doc": "{'indicator_name': 'Continued breastfeeding in children until 2 years of age', 'unit_name': 'Percent', 'data_value': 81.3, 'data_value_num': 26279000}"}
+{"doc": "{'indicator_name': 'Women who reported that specific problems are big problems for them in accessing medical advice or treatment for themselves when they are sick', 'unit_name': 'Percent', 'data_value': 59.5, 'data_value_num': 213803000}"}
+{"doc": "{'indicator_name': 'Women 15-49 years of age with hypertension ', 'unit_name': 'Percent', 'data_value': 11.7, 'data_value_num': 42042000}"}
+{"doc": "{'indicator_name': 'Women age 15-49 with Goitre or any other thyroid disorder who have sought treatment', 'unit_name': 'Percent', 'data_value': 89.4, 'data_value_num': 321243000}"}
+{"doc": "{'indicator_name': 'Women age 15-49 who reported that they have Goitre or any other thyroid disorder', 'unit_name': 'Percent', 'data_value': 2.7, 'data_value_num': 9702000}"}
+{"doc": "{'indicator_name': 'Women age 15-49 with Asthma who have sought treatment', 'unit_name': 'Percent', 'data_value': 69.7, 'data_value_num': 250454000}"}
+{"doc": "{'indicator_name': 'Low height in 15-49 year old women (Percentage below 145cm)', 'unit_name': 'Percent', 'data_value': 11.5, 'data_value_num': 41323000}"}
+{"doc": "{'indicator_name': 'IFA supplementation in 15-19 year old adolescent girls ', 'unit_name': 'Percent', 'data_value': 24.9, 'data_value_num': 31148000}"}
+{"doc": "{'indicator_name': 'Women age 15-49 with diabetes who have sought treatment', 'unit_name': 'Percent', 'data_value': 80.7, 'data_value_num': 289981000}"}
+{"doc": "{'indicator_name': 'Timing of decision to have Cesarean (Percentage decisions before onset of labour pains)', 'unit_name': 'Percent', 'data_value': 12.3, 'data_value_num': 44198000}"}
+{"doc": "{'indicator_name': 'Women who had any contact with a health worker in the past three months', 'unit_name': 'Percent', 'data_value': 31.8, 'data_value_num': 114268000}"}
+{"doc": "{'indicator_name': 'Women age 15-49 who reported that they have diabetes', 'unit_name': 'Percent', 'data_value': 1.9, 'data_value_num': 6827000}"}
+{"doc": "{'indicator_name': 'Women 15-49 year old who received financial assistance (under Janani Suraksha Yojana) for delivering at a health facility ', 'unit_name': 'Percent', 'data_value': 33.09, 'data_value_num': 118903000}"}
+{"doc": "{'indicator_name': 'Timing of decision to have Cesarean (Percentage decisions After onset of labour pains)', 'unit_name': 'Percent', 'data_value': 9, 'data_value_num': 32340000}"}
+{"doc": "{'indicator_name': 'Percentage Households having a bank account/post office account', 'unit_name': 'Percent', 'data_value': 95.7, 'data_value_num': ''}"}
+{"doc": "{'indicator_name': 'Women age 15-49 who reported that they have Asthma', 'unit_name': 'Percent', 'data_value': 1.6, 'data_value_num': 5749000}"}
+{"doc": "{'indicator_name': 'Adolescents 15-19 years with an unmet need for spacing method', 'unit_name': 'Percent', 'data_value': 15.6, 'data_value_num': 9331000}"}
+{"doc": "{'indicator_name': 'Women 15-49 years with an unmet need for spacing method', 'unit_name': 'Percent', 'data_value': 4, 'data_value_num': 14373000}"}
+{"doc": "{'indicator_name': 'Adolescents 15-19 years with an unmet need for family planning', 'unit_name': 'Percent', 'data_value': 17.8, 'data_value_num': 10647000}"}
+{"doc": "{'indicator_name': 'Pregnant women who received two or more TT injections during the pregnancy', 'unit_name': 'Percent', 'data_value': 83.1, 'data_value_num': 298605000}"}
+{"doc": "{'indicator_name': 'Percentage of pregnancies that were registered', 'unit_name': 'Percent', 'data_value': 93.9, 'data_value_num': 337413000}"}
+{"doc": "{'indicator_name': 'Neonatal Mortality Rate', 'unit_name': 'Deaths per 1000 live births', 'data_value': 24.9, 'data_value_num': 600000}"}
+{"doc": "{'indicator_name': 'Men who received counselling on importance of proper nutrition for the\nmother during pregnancy', 'unit_name': 'Percent', 'data_value': 80.4, 'data_value_num': 288903000}"}
+{"doc": "{'indicator_name': 'Men who received counselling on importance of delivering in a health facility', 'unit_name': 'Percent', 'data_value': 72.5, 'data_value_num': 260516000}"}
+{"doc": "{'indicator_name': 'Men who received counselling on importance of Family planning\ndelaying his next child', 'unit_name': 'Percent', 'data_value': 64.5, 'data_value_num': 231769000}"}
+{"doc": "{'indicator_name': 'Men who received counselling on importance of Breastfeeding the baby\nimmediately after birth', 'unit_name': 'Percent', 'data_value': 60.4, 'data_value_num': 217037000}"}
+{"doc": "{'indicator_name': 'Pregnant women who were given or purchased IFA', 'unit_name': 'Percent', 'data_value': 87.6, 'data_value_num': 314775000}"}
+{"doc": "{'indicator_name': 'Pregnant women who consumed IFA for 100 days or more', 'unit_name': 'Percent', 'data_value': 44.1, 'data_value_num': 158465000}"}
+{"doc": "{'indicator_name': 'Women who received counseling on HIV during ANC visit', 'unit_name': 'Percent', 'data_value': 38.9, 'data_value_num': 139780000}"}
+{"doc": "{'indicator_name': 'Women who received HIV test during ANC visit and received results and post-test counseling', 'unit_name': 'Percent', 'data_value': 22.8, 'data_value_num': 81928000}"}
+{"doc": "{'indicator_name': 'Women 15-49 year old who received financial assistance for delivering at a health facility', 'unit_name': 'Percent', 'data_value': '', 'data_value_num': ''}"}
+{"doc": "{'indicator_name': 'The average out-of-pocket cost paid for delivery for the most recent live birth among women age 15-49', 'unit_name': 'INR', 'data_value': 10035, 'data_value_num': 36058966000}"}
+{"doc": "{'indicator_name': 'Pregnant women who received advice on cord care', 'unit_name': 'Percent', 'data_value': 84.4, 'data_value_num': 303276000}"}
+{"doc": "{'indicator_name': 'Using clean fuel for cooking', 'unit_name': 'Percent', 'data_value': 58.6, 'data_value_num': ''}"}
+{"doc": "{'indicator_name': 'Pregnant women who received advice on breastfeeding from any provider', 'unit_name': 'Percent', 'data_value': 90.2, 'data_value_num': 324117000}"}
+{"doc": "{'indicator_name': 'Pregnant women who received ANC from a skilled provider', 'unit_name': 'Percent', 'data_value': 85.1, 'data_value_num': 305792000}"}
+{"doc": "{'indicator_name': 'Pregnant women who received health and nutrition education', 'unit_name': 'Percent', 'data_value': 59.5, 'data_value_num': 213803000}"}
+{"doc": "{'indicator_name': 'Pregnant women who were weighed during antenatal care (ANC)', 'unit_name': 'Percent', 'data_value': 97, 'data_value_num': 348552000}"}
+{"doc": "{'indicator_name': 'Pregnant women who had antenatal care (ANC) visit- ever or at least once', 'unit_name': 'Percent', 'data_value': 92.6, 'data_value_num': 332741000}"}
+{"doc": "{'indicator_name': 'Women covered by a health scheme or health insurance', 'unit_name': 'Percent', 'data_value': 29.8, 'data_value_num': 107081000}"}
+{"doc": "{'indicator_name': 'Housholds using solid fuel for cooking', 'unit_name': 'Percent', 'data_value': 40.6, 'data_value_num': ''}"}
+{"doc": "{'indicator_name': 'Women who use mobile for financial transactions', 'unit_name': 'Percent', 'data_value': 22.5, 'data_value_num': 80850000}"}
+{"doc": "{'indicator_name': 'Female Household Headship', 'unit_name': 'Percent', 'data_value': 17.5, 'data_value_num': ''}"}
+{"doc": "{'indicator_name': 'Pregnant women who took an intestinal parasite drug', 'unit_name': 'Percent', 'data_value': 31.1, 'data_value_num': 7499000}"}
+{"doc": "{'indicator_name': 'Median Duration of  Exclusive Breastfeeding (EBF) in 0-5 month olds', 'unit_name': 'Percent', 'data_value': 3.9, 'data_value_num': ''}"}
+{"doc": "{'indicator_name': 'Women 15-49 year old who delivered in a Private health facility', 'unit_name': 'Percent', 'data_value': 26.2, 'data_value_num': 94145000}"}
+{"doc": "{'indicator_name': 'Women 15-49 year old who delivered in a Public health facility', 'unit_name': 'Percent', 'data_value': 61.9, 'data_value_num': 222427000}"}
+{"doc": "{'indicator_name': 'Home deliveries in which clean blade used to cut the cord', 'unit_name': 'Percent', 'data_value': 92.6, 'data_value_num': ''}"}
+{"doc": "{'indicator_name': 'Pregnant Women', 'unit_name': 'Number', 'data_value': 24113000, 'data_value_num': ''}"}
+{"doc": "{'indicator_name': 'Adolescents (15-19 years)', 'unit_name': 'Number', 'data_value': 125092000, 'data_value_num': ''}"}
+{"doc": "{'indicator_name': 'Delivery/PNC Women', 'unit_name': 'Number', 'data_value': 24113000, 'data_value_num': ''}"}
+{"doc": "{'indicator_name': 'Adolescents (10-14 years)', 'unit_name': 'Number', 'data_value': 119489000, 'data_value_num': ''}"}
+{"doc": "{'indicator_name': 'Children (5-9 years)', 'unit_name': 'Number', 'data_value': 115968000, 'data_value_num': ''}"}
+{"doc": "{'indicator_name': 'Women of reproductive age (15-49 years)', 'unit_name': 'Number', 'data_value': 359332000, 'data_value_num': ''}"}
+{"doc": "{'indicator_name': 'Adolescents (10-19 years)', 'unit_name': 'Number', 'data_value': 244581000, 'data_value_num': ''}"}
+{"doc": "{'indicator_name': 'Children (<5 years)', 'unit_name': 'Number', 'data_value': 114219000, 'data_value_num': ''}"}
+{"doc": "{'indicator_name': 'Postnatal care for 15-49 year old women at home/facility ', 'unit_name': 'Percent', 'data_value': '', 'data_value_num': ''}"}
+{"doc": "{'indicator_name': 'Postnatal care for 15-49 year old women at home/facility ', 'unit_name': 'Percent', 'data_value': '', 'data_value_num': ''}"}
+{"doc": "{'indicator_name': 'Anaemia in 15-49 year old women', 'unit_name': 'Percent', 'data_value': 57, 'data_value_num': 204819000}"}
+{"doc": "{'indicator_name': 'Households with any member covered by health insurance', 'unit_name': 'Percent', 'data_value': 41, 'data_value_num': ''}"}
+{"doc": "{'indicator_name': 'Deliveries attended by skilled birth attendant', 'unit_name': 'Percent', 'data_value': 89.4, 'data_value_num': ''}"}
+{"doc": "{'indicator_name': 'Women 15-49 years of age who have and use bank account', 'unit_name': 'Percent', 'data_value': 78.6, 'data_value_num': 282435000}"}
+{"doc": "{'indicator_name': 'Women 20-24 years of age who married before age 18 years', 'unit_name': 'Percent', 'data_value': 23.3, 'data_value_num': 13974000}"}
+{"doc": "{'indicator_name': 'Women 15-49 years of age who are literate', 'unit_name': 'Percent', 'data_value': 71.5, 'data_value_num': 256922000}"}
+{"doc": "{'indicator_name': 'Introduction of complementary foods in children 6-8 months of age', 'unit_name': 'Percent', 'data_value': 45.9, 'data_value_num': 2359000}"}
+{"doc": "{'indicator_name': 'Access to improved latrine / toilet', 'unit_name': 'Percent', 'data_value': 70.2, 'data_value_num': ''}"}
+{"doc": "{'indicator_name': 'Access to improved source of drinking water', 'unit_name': 'Percent', 'data_value': 95.9, 'data_value_num': ''}"}
+{"doc": "{'indicator_name': 'High Blood Pressure in 15-49 year old women', 'unit_name': 'Percent', 'data_value': 24, 'data_value_num': 86240000}"}
+{"doc": "{'indicator_name': 'Households with availability of iodized salt', 'unit_name': 'Percent', 'data_value': 94.3, 'data_value_num': ''}"}
+{"doc": "{'indicator_name': 'Households with access to electricity', 'unit_name': 'Percent', 'data_value': 96.8, 'data_value_num': ''}"}
+{"doc": "{'indicator_name': 'Exclusive breastfeeding in 0-5 month olds', 'unit_name': 'Percent', 'data_value': 63.7, 'data_value_num': 6548000}"}
+{"doc": "{'indicator_name': 'Women between 15-19 years old who have begun childbearing', 'unit_name': 'Percent', 'data_value': 6.8, 'data_value_num': 4067000}"}
+{"doc": "{'indicator_name': 'Diarrhoea in children under five years of age', 'unit_name': 'Percent', 'data_value': 7.3, 'data_value_num': 8338000}"}
+{"doc": "{'indicator_name': 'Acute Respiratory Infection (ARI)/Pneumonia in past two weeks in  under-five year olds', 'unit_name': 'Percent', 'data_value': 2.8, 'data_value_num': 3198000}"}
+{"doc": "{'indicator_name': 'Zinc treatment for diarrhea for under-five year olds', 'unit_name': 'Percent', 'data_value': 30.5, 'data_value_num': 34837000}"}
+{"doc": "{'indicator_name': 'ORS treatment for diarrhea for under-five year olds', 'unit_name': 'Percent', 'data_value': 60.6, 'data_value_num': 69217000}"}
+{"doc": "{'indicator_name': 'Pregnant women who received the Mother and Child Protection card (MCP) after pregnancy registration', 'unit_name': 'Percent', 'data_value': 95.9, 'data_value_num': ''}"}
+{"doc": "{'indicator_name': 'Pregnant women who received at least 2 TT injections', 'unit_name': 'Percent', 'data_value': 92, 'data_value_num': 2218000}"}
+{"doc": "{'indicator_name': 'Pregnant women who consumed IFA for 180 days or more', 'unit_name': 'Percent', 'data_value': 26, 'data_value_num': 6269000}"}
+{"doc": "{'indicator_name': 'Women 15-49 years currently using modern method to delay or avoid getting pregnant', 'unit_name': 'Percent', 'data_value': 56.5, 'data_value_num': 203023000}"}
+{"doc": "{'indicator_name': 'Pregnant women  who were attended by any provider 4 or more times', 'unit_name': 'Percent', 'data_value': 58.1, 'data_value_num': 208772000}"}
+{"doc": "{'indicator_name': 'Pregnant women who were attended by any provider during the first trimester', 'unit_name': 'Percent', 'data_value': 70, 'data_value_num': 251532000}"}
+{"doc": "{'indicator_name': 'Women 15-49 years with an unmet need for family planning', 'unit_name': 'Percent', 'data_value': 9.4, 'data_value_num': 33777000}"}
+{"doc": "{'indicator_name': 'Children under-five years old whose birth was registered', 'unit_name': 'Percent', 'data_value': 89.1, 'data_value_num': 101769000}"}
+{"doc": "{'indicator_name': 'Anaemia in pregnant women', 'unit_name': 'Percent', 'data_value': 52.2, 'data_value_num': 12587000}"}
+{"doc": "{'indicator_name': 'Overweight in under-five year old', 'unit_name': 'Percent', 'data_value': 3.4, 'data_value_num': 3883000}"}
+{"doc": "{'indicator_name': 'Anaemia in 15-19 year old adolescent girls', 'unit_name': 'Percent', 'data_value': 59.1, 'data_value_num': 35349000}"}
+{"doc": "{'indicator_name': 'Wasting in under-five year olds', 'unit_name': 'Percent', 'data_value': 19.3, 'data_value_num': 22044000}"}
+{"doc": "{'indicator_name': 'Underweight in under-five year olds', 'unit_name': 'Percent', 'data_value': 32.1, 'data_value_num': 36664000}"}
+{"doc": "{'indicator_name': 'Stunting in under-five year olds', 'unit_name': 'Percent', 'data_value': 35.5, 'data_value_num': 40548000}"}
+{"doc": "{'indicator_name': 'Severe Wasting in under-five year old', 'unit_name': 'Percent', 'data_value': 7.7, 'data_value_num': 8795000}"}
+{"doc": "{'indicator_name': 'Anaemia in 6-59 month olds', 'unit_name': 'Percent', 'data_value': 67.1, 'data_value_num': 69743000}"}
+{"doc": "{'indicator_name': 'Women 15-49 years of age who have and use bank account', 'unit_name': 'Percent', 'data_value': '', 'data_value_num': ''}"}
+{"doc": "{'indicator_name': 'Women between 15-19 years old who have begun childbearing', 'unit_name': 'Percent', 'data_value': '', 'data_value_num': ''}"}
+{"doc": "{'indicator_name': 'Pregnant women who received at least 2 TT injections', 'unit_name': 'Percent', 'data_value': '', 'data_value_num': ''}"}
+{"doc": "{'indicator_name': 'Women 15-49 years of age who are literate', 'unit_name': 'Percent', 'data_value': '', 'data_value_num': ''}"}
+{"doc": "{'indicator_name': 'Households with any member covered by health insurance', 'unit_name': 'Percent', 'data_value': '', 'data_value_num': ''}"}
+{"doc": "{'indicator_name': 'Children under-five years old whose birth was registered', 'unit_name': 'Percent', 'data_value': '', 'data_value_num': ''}"}
+{"doc": "{'indicator_name': 'Pregnant women who consumed IFA for 180 days or more', 'unit_name': 'Percent', 'data_value': '', 'data_value_num': ''}"}
+{"doc": "{'indicator_name': 'High Blood Pressure in 15-49 year old women', 'unit_name': 'Percent', 'data_value': '', 'data_value_num': ''}"}
+{"doc": "{'indicator_name': 'Households with availability of iodized salt', 'unit_name': 'Percent', 'data_value': '', 'data_value_num': ''}"}
+{"doc": "{'indicator_name': 'Households with access to electricity', 'unit_name': 'Percent', 'data_value': '', 'data_value_num': ''}"}
+{"doc": "{'indicator_name': 'Women 15-49 years currently using modern method to delay or avoid getting pregnant', 'unit_name': 'Percent', 'data_value': '', 'data_value_num': ''}"}
+{"doc": "{'indicator_name': 'Pregnant women  who were attended by any provider 4 or more times', 'unit_name': 'Percent', 'data_value': '', 'data_value_num': ''}"}
+{"doc": "{'indicator_name': 'Pregnant women who were attended by any provider during the first trimester', 'unit_name': 'Percent', 'data_value': '', 'data_value_num': ''}"}
+{"doc": "{'indicator_name': 'Women 15-49 years with an unmet need for family planning', 'unit_name': 'Percent', 'data_value': '', 'data_value_num': ''}"}
+{"doc": "{'indicator_name': 'Women 20-24 years of age who married before age 18 years', 'unit_name': 'Percent', 'data_value': '', 'data_value_num': ''}"}
+{"doc": "{'indicator_name': 'Introduction of complementary foods in children 6-8 months of age', 'unit_name': 'Percent', 'data_value': '', 'data_value_num': ''}"}
+{"doc": "{'indicator_name': 'Exclusive breastfeeding in 0-5 month olds', 'unit_name': 'Percent', 'data_value': '', 'data_value_num': ''}"}
+{"doc": "{'indicator_name': 'Access to improved latrine / toilet', 'unit_name': 'Percent', 'data_value': '', 'data_value_num': ''}"}
+{"doc": "{'indicator_name': 'Access to improved source of drinking water', 'unit_name': 'Percent', 'data_value': '', 'data_value_num': ''}"}
+{"doc": "{'indicator_name': 'Women 15-49 year old who delivered in a health facility', 'unit_name': 'Percent', 'data_value': 88.6, 'data_value_num': 318368000}"}
+{"doc": "{'indicator_name': 'Anaemia in 15-49 year old women', 'unit_name': 'Percent', 'data_value': '', 'data_value_num': ''}"}
+{"doc": "{'indicator_name': 'Minimal dietary diversity in 6-23 month olds', 'unit_name': 'Percent', 'data_value': 24.1, 'data_value_num': ''}"}
+{"doc": "{'indicator_name': 'Minimal meal frequency in 6-23 month olds', 'unit_name': 'Percent', 'data_value': 31.2, 'data_value_num': ''}"}
+{"doc": "{'indicator_name': 'Births delivered by caesarean section', 'unit_name': 'Percent', 'data_value': 21.5, 'data_value_num': ''}"}
+{"doc": "{'indicator_name': 'Percentage delivered by caesarean section – Public facility', 'unit_name': 'Percent', 'data_value': 14.3, 'data_value_num': ''}"}
+{"doc": "{'indicator_name': 'Percentage delivered by caesarean section – Private facility', 'unit_name': 'Percent', 'data_value': 47.4, 'data_value_num': ''}"}
