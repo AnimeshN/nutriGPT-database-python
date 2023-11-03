@@ -104,7 +104,7 @@ while True:
 
 
 ```
-The jsonline file then will be 
+The JSONL file will be subsequently processed using the Pathway API 
 ```python
 import pathway as pw
 
