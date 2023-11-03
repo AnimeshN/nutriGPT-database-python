@@ -1,4 +1,4 @@
-# NutriGPT: Unlocking Nutrition Insights for India 🥦🇮🇳
+# NutriGPT: Unlocking Nutrition Insights for India 🇮🇳
 
 ![image](https://github.com/AnimeshN/nutriGPT-database-python/assets/17973453/b5a183e0-7b0c-4aff-a0b8-863d65ed931c)
 
