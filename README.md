@@ -4,7 +4,7 @@
 
 
 ## About NutriGPT
-NutriGPT is an AI-powered application that connects to a real-time **SQLite database** and generates data embeddings. It utilizes Pathway’s [LLM App features](https://github.com/pathwaycom/llm-app) to build a real-time Large Language Model (LLM)-enabled data pipeline in Python, combining data from multiple databases.
+NutriGPT is AI powered application that seamlessly interfaces with an up-to-the-minute SQLite database with real-time vector indexing and makes effective use of a continuous stream of real-time data.It utilizes Pathway’s [LLM App features](https://github.com/pathwaycom/llm-app) to build a real-time Large Language Model (LLM)-enabled data pipeline in Python, combining data from multiple databases.
 
 ## How to Use
 
